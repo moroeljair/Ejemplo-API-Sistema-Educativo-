@@ -29,6 +29,11 @@ La base de datos incluye las siguientes tablas:
 5. **CURSO_PROFESOR**
    - Relación entre cursos y profesores.
 
+## Conexión a la Base de Datos
+
+La conexión a la base de datos se encuentra en el archivo `php/db/db.php`.
+El backup se encuentra /bd_educativa.sql
+
 ## Endpoints de la API
 
 ### Estudiantes
