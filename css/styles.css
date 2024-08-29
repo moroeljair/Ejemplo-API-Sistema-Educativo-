@@ -1,0 +1,32 @@
+header {
+    background-color: #0075FF;
+    color: #f4f8fe;
+    padding: 10px;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.m{
+    text-align: center;
+    width: 100%;
+    background-color: #0075FF;
+    color: #f4f8fe;
+}
+
+.c{
+    text-align: center;
+    padding: 20px;
+    margin: 40px;
+}
+
+.c li{
+    list-style: none;
+    padding: 10px;
+}

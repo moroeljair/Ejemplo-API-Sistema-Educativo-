@@ -71,4 +71,10 @@ Se pueden realizar pruebas a la API utilizando Postman.
 3. Coloca los archivos de la API en la carpeta `htdocs` de XAMPP.
 4. Accede a la API a través de `http://localhost/nombre_del_proyecto/php/api/`.
 
+## Archivos Agregados
+
+- **index.html**: Página principal donde se despliega la información de los estudiantes, profesores y cursos.
+- **js/index.js**: Archivo JavaScript que maneja las interacciones en la página principal.
+- **js/multitabla.js**: Archivo JavaScript que consume la API y muestra la información de acuerdo con las consultas realizadas.
+
 
